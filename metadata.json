@@ -1,0 +1,7 @@
+{
+  "name": "Neuro-Chemistry of Love",
+  "description": "An interactive educational dashboard exploring the biological and chemical processes behind human mate selection and relationship formation.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
